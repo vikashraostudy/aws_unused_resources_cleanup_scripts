@@ -1,0 +1,21 @@
+
+---
+
+### `.gitignore`
+```bash
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+
+# AWS configuration files
+.aws/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
